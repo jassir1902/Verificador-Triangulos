@@ -7,3 +7,8 @@ Aplicacion de consola para verificar de que tipo es un triangulo ingresando los 
 - .NET SDK 6.0 o superior: Puedes descargarlo e instalarlo desde la [pagina oficial de .NET](https://dotnet.microsoft.com/download/dotnet/6.0).
 
 - Un editor de texto o IDE (opcional): Puedes usar Visual Studio Code o Visual Studio para ver y editar el codigo.
+
+## Instrucciones
+
+1. Abrir una consola en la carpeta VerificarTriangulo/ en la que se encuentra el archivo VerificadorTriangulos.csproj
+2. Ejecutar el comando $ dotnet run
