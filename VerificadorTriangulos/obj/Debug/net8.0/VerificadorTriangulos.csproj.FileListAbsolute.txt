@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.exe
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.deps.json
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.dll
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.pdb
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.dll
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\refint\VerificadorTriangulos.dll
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.pdb
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documentos\Certi2\Verificador de Triangulos\src\VerificadorTriangulos\obj\Debug\net8.0\ref\VerificadorTriangulos.dll
